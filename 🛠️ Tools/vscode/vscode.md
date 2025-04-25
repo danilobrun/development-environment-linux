@@ -13,7 +13,8 @@ Add (erminal.integrated.fontFamily, terminal.integrated.defaultProfile.linux, ed
 ```zsh
     "terminal.integrated.fontFamily": "MesloLGS NF",
     "terminal.integrated.defaultProfile.linux": "zsh",
-    "editor.fontLigatures": true
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on"
 ```
 
 ### Dracula
